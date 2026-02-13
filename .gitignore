@@ -1,0 +1,3 @@
+# Utility/deployment scripts (contain hardcoded credentials)
+deploy.php
+setup.php
