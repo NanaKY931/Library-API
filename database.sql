@@ -1,7 +1,5 @@
 -- Contacts CRUD API - Database Setup
 
-DROP DATABASE IF EXISTS contacts_db;
-CREATE DATABASE contacts_db;
 USE contacts_db;
 
 CREATE TABLE IF NOT EXISTS contacts (

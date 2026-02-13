@@ -6,8 +6,8 @@ header('Content-Type: application/json');
 
 $host = 'localhost';
 $user = 'root';
-$pass = '';
-$db   = 'contacts_db';
+$pass = 'DestinyV1sion!';
+$db   = 'mobileapps_2026B_nana_yirenkyi';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
