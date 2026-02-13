@@ -16,9 +16,9 @@ All endpoints are in the `actions/` subfolder and return JSON.
 
 ## Setup
 
-1. Import `database.sql` into MySQL to create the `contacts_db` database and seed data.
-2. Place the project folder in your web server's document root.
-3. Access endpoints via `http://<your-server>/<project-folder>/actions/`
+1. Import `database.sql` into your MySQL database (e.g., `mobileapps_2026B_nana_yirenkyi`).
+2. Update `db.php` with your database credentials.
+3. Access endpoints via `http://<your-server>/~your_username/Library%20API/actions/`
 
 ## Example Usage
 

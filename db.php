@@ -5,7 +5,7 @@
 header('Content-Type: application/json');
 
 $host = 'localhost';
-$user = 'root';
+$user = 'nana.yirenkyi';
 $pass = 'DestinyV1sion!';
 $db   = 'mobileapps_2026B_nana_yirenkyi';
 
